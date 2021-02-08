@@ -1,0 +1,91 @@
+{C:/Users/rafus/Documents/Progetto esame microelettronica digitale/Ricevitore CDMA/TB/Moltiplicazione_tb.vhd} {1 {vcom -work work -2002 -explicit -stats=none {C:/Users/rafus/Documents/Progetto esame microelettronica digitale/Ricevitore CDMA/TB/Moltiplicazione_tb.vhd}
+Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Loading package STD_LOGIC_UNSIGNED
+-- Loading package NUMERIC_STD
+-- Compiling entity Moltiplicazione_tb
+-- Compiling architecture beh of Moltiplicazione_tb
+
+} {} {}} {C:/Users/rafus/Documents/Progetto esame microelettronica digitale/Ricevitore CDMA/SRC/Divider.vhd} {1 {vcom -work work -2002 -explicit -stats=none {C:/Users/rafus/Documents/Progetto esame microelettronica digitale/Ricevitore CDMA/SRC/Divider.vhd}
+Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Loading package std_logic_arith
+-- Loading package STD_LOGIC_UNSIGNED
+-- Compiling entity Divider
+-- Compiling architecture beh of Divider
+
+} {} {}} {C:/Users/rafus/Documents/Progetto esame microelettronica digitale/Ricevitore CDMA/SRC/Moltiplicazione.vhd} {1 {vcom -work work -2002 -explicit -stats=none {C:/Users/rafus/Documents/Progetto esame microelettronica digitale/Ricevitore CDMA/SRC/Moltiplicazione.vhd}
+Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Loading package STD_LOGIC_UNSIGNED
+-- Compiling entity Moltiplicazione
+-- Compiling architecture rtl of Moltiplicazione
+
+} {} {}} {C:/Users/rafus/Documents/Progetto esame microelettronica digitale/Ricevitore CDMA/TB/RippleCarryAdder_tb.vhd} {1 {vcom -work work -2002 -explicit -stats=none {C:/Users/rafus/Documents/Progetto esame microelettronica digitale/Ricevitore CDMA/TB/RippleCarryAdder_tb.vhd}
+Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Loading package STD_LOGIC_UNSIGNED
+-- Loading package NUMERIC_STD
+-- Compiling entity RippleCarryAdder_tb
+-- Compiling architecture beh of RippleCarryAdder_tb
+
+} {} {}} {C:/Users/rafus/Documents/Progetto esame microelettronica digitale/Ricevitore CDMA/SRC/Counter.vhd} {1 {vcom -work work -2002 -explicit -stats=none {C:/Users/rafus/Documents/Progetto esame microelettronica digitale/Ricevitore CDMA/SRC/Counter.vhd}
+Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity Counter
+-- Compiling architecture Struct of Counter
+
+} {} {}} {C:/Users/rafus/Documents/Progetto esame microelettronica digitale/Ricevitore CDMA/TB/Receiver_tb.vhd} {1 {vcom -work work -2002 -explicit -stats=none {C:/Users/rafus/Documents/Progetto esame microelettronica digitale/Ricevitore CDMA/TB/Receiver_tb.vhd}
+Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Loading package STD_LOGIC_UNSIGNED
+-- Loading package NUMERIC_STD
+-- Compiling entity Receiver_tb
+-- Compiling architecture beh of Receiver_tb
+
+} {} {}} {C:/Users/rafus/Documents/Progetto esame microelettronica digitale/Ricevitore CDMA/SRC/Receiver.vhd} {1 {vcom -work work -2002 -explicit -stats=none {C:/Users/rafus/Documents/Progetto esame microelettronica digitale/Ricevitore CDMA/SRC/Receiver.vhd}
+Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Loading package std_logic_arith
+-- Loading package STD_LOGIC_UNSIGNED
+-- Compiling entity Receiver
+-- Compiling architecture Struct of Receiver
+
+} {} {}} {C:/Users/rafus/Documents/Progetto esame microelettronica digitale/Ricevitore CDMA/SRC/RippleCarryAdder.vhd} {1 {vcom -work work -2002 -explicit -stats=none {C:/Users/rafus/Documents/Progetto esame microelettronica digitale/Ricevitore CDMA/SRC/RippleCarryAdder.vhd}
+Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity RippleCarryAdder
+-- Compiling architecture beh of RippleCarryAdder
+
+} {} {}} {C:/Users/rafus/Documents/Progetto esame microelettronica digitale/Ricevitore CDMA/SRC/DFC.vhd} {1 {vcom -work work -2002 -explicit -stats=none {C:/Users/rafus/Documents/Progetto esame microelettronica digitale/Ricevitore CDMA/SRC/DFC.vhd}
+Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Compiling entity DFC
+-- Compiling architecture rtl of DFC
+
+} {} {}}
